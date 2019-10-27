@@ -1,0 +1,35 @@
+#DIVcadastrarCliente{
+    border: #FFFFFF solid 1px;
+    margin-top: 5%;
+    box-shadow: 5px 5px 5px gray;
+    padding: 2%;
+}
+
+#DIVcadastrarFornecedor{
+    border: #FFFFFF solid 1px;
+    margin-top: 5%;
+    box-shadow: 5px 5px 5px gray;
+    padding: 2%;
+}
+
+#DIVcadastrarProduto{
+    border: #FFFFFF solid 1px;
+    margin-top: 5%;
+    box-shadow: 5px 5px 5px gray;
+    padding: 2%;
+}
+
+#estatisticas{
+    margin-top: 3%;
+}
+
+#MostrarEstoque{
+    margin-top: 5%;
+}
+
+#DIVrealizarVenda{
+    border: #FFFFFF solid 1px;
+    margin-top: 5%;
+    box-shadow: 5px 5px 5px gray;
+    padding: 2%;
+}
